@@ -1,0 +1,5 @@
+promo_id,promo_name,sku,start_date,end_date,discount_pct,status
+PR-2506-01,Summer Layer Event,SKU-AP-100,2025-06-09,2025-06-22,25,Planned
+PR-2506-02,Footwear Refresh,SKU-FW-210,2025-05-05,2025-06-15,20,Active
+PR-2506-03,Kitchen Starter Bundle,SKU-KT-400,2025-06-16,2025-06-29,15,Planned
+PR-2506-04,Home Clearance,SKU-HM-300,2025-05-19,2025-06-01,30,Ended

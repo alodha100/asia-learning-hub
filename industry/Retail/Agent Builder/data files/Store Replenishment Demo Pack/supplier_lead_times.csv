@@ -1,0 +1,9 @@
+sku,supplier,lead_time_days,reliability_on_time_pct
+SKU-AP-100,Northline Textiles,21,88
+SKU-AP-110,Northline Textiles,14,88
+SKU-FW-200,Stride Supply Co,35,93
+SKU-FW-210,Stride Supply Co,28,91
+SKU-HM-300,Hearth & Home Imports,10,91
+SKU-HM-310,Hearth & Home Imports,14,91
+SKU-KT-400,Cobalt Kitchen Goods,12,88
+SKU-KT-410,Cobalt Kitchen Goods,21,97

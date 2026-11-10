@@ -1,0 +1,33 @@
+snapshot_date,store_id,store_name,sku,product_name,on_hand_units,avg_weekly_units_8wk,weeks_of_cover,on_order_units,next_delivery_date,stock_flag
+2025-06-06,S101,Harbor Central,SKU-AP-100,Rain Jacket,60,8,7.5,0,,OK
+2025-06-06,S101,Harbor Central,SKU-AP-110,Fleece Pullover,9,6,1.5,0,,Stockout risk
+2025-06-06,S101,Harbor Central,SKU-FW-200,Trail Runner Shoe,77,7,11.0,36,2025-07-11,Overstock risk
+2025-06-06,S101,Harbor Central,SKU-FW-210,Canvas Sneaker,44,4,11.0,0,,Overstock risk
+2025-06-06,S101,Harbor Central,SKU-HM-300,Ceramic Mug 4-Pack,308,28,11.0,24,2025-06-16,Overstock risk
+2025-06-06,S101,Harbor Central,SKU-HM-310,Bamboo Cutting Board,117,13,9.0,36,2025-06-20,Overstock risk
+2025-06-06,S101,Harbor Central,SKU-KT-400,Insulated Water Bottle,11,14,0.8,0,,Stockout risk
+2025-06-06,S101,Harbor Central,SKU-KT-410,Cast Iron Skillet,210,28,7.5,12,2025-06-27,OK
+2025-06-06,S102,Pine Street,SKU-AP-100,Rain Jacket,35,14,2.5,0,,OK
+2025-06-06,S102,Pine Street,SKU-AP-110,Fleece Pullover,180,30,6.0,0,,OK
+2025-06-06,S102,Pine Street,SKU-FW-200,Trail Runner Shoe,38,5,7.6,0,,OK
+2025-06-06,S102,Pine Street,SKU-FW-210,Canvas Sneaker,54,9,6.0,36,2025-07-04,OK
+2025-06-06,S102,Pine Street,SKU-HM-300,Ceramic Mug 4-Pack,11,14,0.8,48,2025-06-16,Stockout risk
+2025-06-06,S102,Pine Street,SKU-HM-310,Bamboo Cutting Board,220,20,11.0,0,,Overstock risk
+2025-06-06,S102,Pine Street,SKU-KT-400,Insulated Water Bottle,27,18,1.5,36,2025-06-18,Stockout risk
+2025-06-06,S102,Pine Street,SKU-KT-410,Cast Iron Skillet,90,15,6.0,36,2025-06-27,OK
+2025-06-06,S103,Riverside,SKU-AP-100,Rain Jacket,18,12,1.5,0,,Stockout risk
+2025-06-06,S103,Riverside,SKU-AP-110,Fleece Pullover,94,27,3.5,12,2025-06-20,OK
+2025-06-06,S103,Riverside,SKU-FW-200,Trail Runner Shoe,18,5,3.6,0,,OK
+2025-06-06,S103,Riverside,SKU-FW-210,Canvas Sneaker,45,10,4.5,24,2025-07-04,OK
+2025-06-06,S103,Riverside,SKU-HM-300,Ceramic Mug 4-Pack,156,26,6.0,0,,OK
+2025-06-06,S103,Riverside,SKU-HM-310,Bamboo Cutting Board,102,17,6.0,0,,OK
+2025-06-06,S103,Riverside,SKU-KT-400,Insulated Water Bottle,122,27,4.5,48,2025-06-18,OK
+2025-06-06,S103,Riverside,SKU-KT-410,Cast Iron Skillet,40,27,1.5,36,2025-06-27,Stockout risk
+2025-06-06,S104,Hillcrest,SKU-AP-100,Rain Jacket,65,26,2.5,36,2025-06-27,OK
+2025-06-06,S104,Hillcrest,SKU-AP-110,Fleece Pullover,102,29,3.5,0,,OK
+2025-06-06,S104,Hillcrest,SKU-FW-200,Trail Runner Shoe,82,11,7.5,12,2025-07-11,OK
+2025-06-06,S104,Hillcrest,SKU-FW-210,Canvas Sneaker,198,18,11.0,0,,Overstock risk
+2025-06-06,S104,Hillcrest,SKU-HM-300,Ceramic Mug 4-Pack,162,27,6.0,0,,OK
+2025-06-06,S104,Hillcrest,SKU-HM-310,Bamboo Cutting Board,10,13,0.8,12,2025-06-20,Stockout risk
+2025-06-06,S104,Hillcrest,SKU-KT-400,Insulated Water Bottle,81,18,4.5,0,,OK
+2025-06-06,S104,Hillcrest,SKU-KT-410,Cast Iron Skillet,72,12,6.0,0,,OK

@@ -1,0 +1,9 @@
+sku,product_name,category,retail_price_usd,unit_cost_usd
+SKU-AP-100,Rain Jacket,Apparel,59.00,24.00
+SKU-AP-110,Fleece Pullover,Apparel,44.00,18.00
+SKU-FW-200,Trail Runner Shoe,Footwear,89.00,39.00
+SKU-FW-210,Canvas Sneaker,Footwear,49.00,21.00
+SKU-HM-300,Ceramic Mug 4-Pack,Home,24.00,9.00
+SKU-HM-310,Bamboo Cutting Board,Home,32.00,12.50
+SKU-KT-400,Insulated Water Bottle,Kitchen,28.00,11.00
+SKU-KT-410,Cast Iron Skillet,Kitchen,65.00,27.00
